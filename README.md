@@ -1,2 +1,4 @@
 # Machine_Learning_NeuralNetworkPyTorch
-Implement of train and evaluate neural network using PyTorch package.
+Train and evaluate neural network using PyTorch package.
+
+Implementing several models witch are different in their number of hidden layers, activation functions and optimizers.
